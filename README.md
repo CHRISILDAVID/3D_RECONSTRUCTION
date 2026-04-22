@@ -40,7 +40,7 @@ Easily generate vivid 3D scene reconstructions from multi-view images using the 
 ### 1. Clone the Repositories
 Because the project depends on DUSt3R, make sure to clone it inside the backend.
 ```bash
-git clone https://github.com/CHRISILDAVID/3d-reconstruction.git
+git clone https://github.com/CHRISILDAVID/3D_RECONSTRUCTION
 cd 3d-reconstruction
 
 # Clone DUSt3R (with submodules) into the backend
@@ -121,7 +121,7 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check [issues page](https://github.com/CHRISILDAVID/3d-reconstruction/issues) if you want to contribute.
+Feel free to check [issues page](https://github.com/CHRISILDAVID/3D_RECONSTRUCTION/issues) if you want to contribute.
 
 ## 📜 License
 
