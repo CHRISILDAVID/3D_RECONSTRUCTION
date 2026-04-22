@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+numpy
+scipy
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+roma
+einops
+huggingface-hub
+safetensors
+trimesh
+# Segmentation dependencies
+transformers>=4.40.0
+# SAM 2 (not on PyPI — install separately):
+# pip install git+https://github.com/facebookresearch/sam2.git
